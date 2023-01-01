@@ -1,0 +1,42 @@
+{
+  "name": "open-jira",
+  "version": "0.1.0",
+  "private": true,
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "material-ui",
+    "docker",
+    "docker-compose",
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "11.10.4",
+    "@emotion/styled": "11.10.4",
+    "@mui/icons-material": "5.10.3",
+    "@mui/material": "5.10.4",
+    "axios": "1.2.2",
+    "date-fns": "^2.29.3",
+    "mongoose": "6.8.2",
+    "next": "12.2.5",
+    "notistack": "^2.0.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "uuid": "9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.15",
+    "@types/react": "18.0.18",
+    "@types/react-dom": "18.0.6",
+    "@types/uuid": "8.3.4",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "typescript": "4.8.2"
+  }
+}
