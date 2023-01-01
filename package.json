@@ -8,7 +8,7 @@
     "typescript",
     "material-ui",
     "docker",
-    "docker-compose",
+    "docker-compose"
   ],
   "scripts": {
     "dev": "next dev",
