@@ -2,6 +2,7 @@
   "name": "open-jira",
   "version": "0.1.0",
   "private": true,
+  "description": "Open Jira is a simple Jira clone built with Next.js, React, TypeScript, and Material-UI.",
   "keywords": [
     "nextjs",
     "react",
